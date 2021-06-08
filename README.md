@@ -1,8 +1,8 @@
 # wildbeast
  A CSS Grid Layout Landing Page
-<div align="center">
- ![Wildbeast](https://github.com/danielaversa/wildbeast/blob/main/img/wolf2.jpg "Wildbeast") 
-</div>
+<p align="center">
+  <img width="300" height="266" src="https://github.com/danielaversa/wildbeast/blob/main/img/wolf2.jpg" alt="Wolf">
+</p>
 ## The Project
 Wildbeast is a fictional blog landing page developed with the goal to practice using CSS Grid to create a layout.
 
